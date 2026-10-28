@@ -1,3 +1,11 @@
+# Tokenization Challenge - Speedrun Ethereum
+
+ERC-721 NFT contract deployed on Sepolia.
+
+- Frontend: https://speedruneth1-2npi2p0fi-jekatsen.vercel.app
+- Contract: https://sepolia.etherscan.io/address/0xd2feacfbadb655b31f17940392c69c74ffb96dda
+
+
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
